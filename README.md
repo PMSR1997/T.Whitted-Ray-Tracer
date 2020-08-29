@@ -8,6 +8,8 @@ In the subjet 3D Programming we had to develop a T.Whitted Ray-Tracer
 - Depth of Field;
 - Uniform Grid as an acceleration structure.
 
+---
+
 ## Usage
 
 To run this exercise, you should use Visual Studio.
