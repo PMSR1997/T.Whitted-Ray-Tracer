@@ -1,4 +1,4 @@
-# T.Whitted-Ray-Tracer
+# Monte Carlo Ray Tracing
 In the subjet 3D Programming we had to develop a T.Whitted Ray-Tracer 
 
 **Techniques Used**
