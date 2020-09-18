@@ -1,5 +1,5 @@
 # Monte Carlo Ray Tracing
-In the subjet 3D Programming we had to develop a T.Whitted Ray-Tracer 
+In the subjet 3D Programming we had to develop a Monte Carlo Ray Tracer
 
 **Techniques Used**
 
